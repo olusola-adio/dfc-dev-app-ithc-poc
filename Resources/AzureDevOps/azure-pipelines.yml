@@ -8,9 +8,8 @@ resources:
   - repository: self
   - repository: dfc-devops
     type: github
-    name: SkillsFundingAgency/dfc-devops
-    ref: refs/tags/v1.8.5
-    endpoint: 'GitHub (ESFA)'
+    name: olusola-adio/dfc-devops
+    endpoint: 'olusola-adio'
 
 stages:
 - stage: Build
