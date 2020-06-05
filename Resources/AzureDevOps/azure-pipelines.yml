@@ -10,6 +10,7 @@ resources:
     type: github
     name: olusola-adio/dfc-devops
     endpoint: 'olusola-adio'
+    ref: refs/tags/v1.8.5
 
 stages:
 - stage: Build
